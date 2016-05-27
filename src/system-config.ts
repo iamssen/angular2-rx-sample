@@ -29,6 +29,12 @@ const barrels: string[] = [
   // App specific barrels.
   'app',
   'app/shared',
+  'app/date-input',
+  'app/first-input',
+  'app/last-input',
+  'app/user-name',
+  'app/current-date',
+  'app/hello-message',
   /** @cli-barrel */
 ];
 
